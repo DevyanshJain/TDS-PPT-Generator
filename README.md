@@ -85,6 +85,9 @@ Compatible with Railway, Render, Vercel, Heroku, and similar platforms. Connect 
 
 ---
 
+## Deployed
+[Click here](https://tds-ppt-generator-2.onrender.com/)
+
 ## 📄 License
 
 MIT License – free to use, modify, and share.
