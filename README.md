@@ -25,7 +25,7 @@ This lightweight tool converts raw content (notes, essays, reports, or markdown)
 ### 1. Clone the repo
 
 ```bash
-git https://github.com/DevyanshJain/TDS-PPT-Generator/edit/main/README.md
+git https://github.com/DevyanshJain/TDS-PPT-Generator
 cd TDS-PPT-Generator
 ```
 
